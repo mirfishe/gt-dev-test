@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Manage State and External Data in React
 
-Create a React app that can be run locally to verify the results. 
-Connect to an external API to fetch some data to display based on user selection or input. 
+Modify the starter app which can be run locally to verify the results. 
+Connect to an external API to fetch some data for display based on user selection or input. 
 Use any free API and a select list for the user to utilize.
  
 ## App State
